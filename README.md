@@ -1270,5 +1270,5 @@ In this Ripple carry adder example, unlike instantiating fulladder for 8 times, 
 
 # 7. Word of Thanks
 
-My sincere thanks to the team of VLSI System Design for the 5-day workshop. The sessions are very well conducted. The content is very precise and helpful in my understanding of the flow. I very much look forward to any future workshops and events. My special thanks to Mr.kunal and Mr.Shon Taware for helping me out with the flow. I wish the VSD Team all the very best on their future endeavours.
+My sincere thanks to the team of VLSI System Design for the 5-day workshop. The sessions are very well conducted. The content is very precise and helpful in my understanding of the flow. I very much look forward to any future workshops and events. My special thanks to Mr.kunal for helping me out with the flow. I wish the VSD Team all the very best on their future endeavours.
 
